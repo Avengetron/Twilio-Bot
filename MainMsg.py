@@ -1,7 +1,7 @@
 from twilio.rest import Client
 
-account_sid = 'AC3d8618b301d4ec8d254fefb70286ac5f'          #your account SID in Twiliow
-auth_token = 'a7c3a1aed9b3d8d50893a5ac921886f4'             #Your Auth Code Below SID
+account_sid = ''          #your account SID in Twiliow
+auth_token = ''             #Your Auth Code Below SID
 client = Client(account_sid, auth_token)
 
 
